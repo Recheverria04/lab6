@@ -1,11 +1,4 @@
-/*
-  wordhist.c
-  CPSC 223C
-  Spring 2015
-  CSU Fullerton
-  Lab 6: word frequencies in O(n log n) time
-  Authors: TODO: replace this with your names and CSUF email addresses
-*/ 
+
 
 #include <assert.h>
 #include <stdio.h>
