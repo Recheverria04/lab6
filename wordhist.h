@@ -1,12 +1,4 @@
-/*
-  wordhist.h
-  CPSC 223C
-  Spring 2015
-  CSU Fullerton
-  Lab 6: word frequencies in O(n log n) time
-  Authors: Kevin Wortman (kwortman@csu.fullerton.edu)
-  You should leave this file unchanged.
-*/ 
+
 
 #ifndef __WORDHIST_H
 #define __WORDHIST_H
